@@ -1,0 +1,10 @@
+---
+title: "Summarizing Categorical Data"
+subtitle: "Practice Slide Deck"
+author: "Instructor"
+format: revealjs
+---
+
+## First slide
+
+Hello world!
